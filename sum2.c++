@@ -1,11 +1,9 @@
-will be 
-
 #include <iostream>
 using namespace std;
 
 int main() {
-    int a = 50;
-    int b = 30;
+    int a = 100;
+    int b = 200;
 
     cout << "Sum = " << a + b << endl;
 
