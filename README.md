@@ -1,67 +1,80 @@
 # README
 
+**README.md**
+=============
+
 **Project Overview**
 ===============
 
-This repository contains two C++ programs, `sum2.c++` and `sum.c++`. Both programs calculate the sum of two integers and output the result to the console.
+Este repositorio contiene dos programas en C++ denominados `sum2.c++` y `sum.c++`. Ambos programas calculan la suma de dos enteros y muestran el resultado en la consola.
+
 
 **Tech Stack**
 ==============
 
-* Programming Language: C++
-* Standard Library: Standard Template Library (STL) via `#include <iostream>`
+* Lenguaje de Programacion: C++
+* Standard Library: Standard Template Library (STL) a través de `#include <iostream>`
 
 **Features**
 ========
 
-Bulleted list of features based on the repository evidence:
+Lista de características basada en la evidencia del repositorio:
 
-* Calculates the sum of two integers
-* Outputs the result to the console
+* Calcula la suma de dos enteros
+* Muestra el resultado en la consola
 
 **Project Structure**
 ====================
 
-The project consists of two C++ source files:
+El proyecto consiste de dos archivos fuente de C++:
 
 * `sum2.c++`
 * `sum.c++`
 
-These files are listed in the repository file outline.
+Estos archivos están mencionados en el esquema del repositorio.
 
 **Local Setup**
 =============
 
-To compile and run the programs, you need a C++ compiler installed on your system. The exact setup instructions depend on your operating system and development environment.
+Para compilar y ejecutar los programas, es necesario instalar un compilador de C++ en el sistema. Las instrucciones de configuración exactas dependen del sistema operativo y del ambiente de desarrollo.
 
 **Environment Variables**
 ======================
 
-None specified in the repository evidence.
+Ninguna variable de ambiente está definida en la evidencia del repositorio.
 
 **Usage Flow**
 =============
 
-To use the programs:
+Para utilizar los programas:
 
-1. Clone this repository.
-2. Navigate to the directory containing the `sum2.c++` and `sum.c++` files.
-3. Compile the programs using a C++ compiler (e.g., `g++ sum2.c++ -o sum2 && g++ sum.c++ -o sum`).
-4. Run the compiled programs (e.g., `./sum2 && ./sum`).
-5. Observe the output, which should be the sum of the two integers.
+1. Clone este repositorio.
+2. Navegue hacia el directorio que contiene los archivos `sum2.c++` y `sum.c++`.
+3. Compile los programas usando un compilador de C++ (por ejemplo, `g++ sum2.c++ -o sum2 && g++ sum.c++ -o sum`).
+4. Ejecute los programas compilados (por ejemplo, `./sum2 && ./sum`).
+5. Observe el resultado, que debería ser la suma de los dos enteros.
 
 **Safety Notes**
 ==============
 
-Note: Both programs assume the user intends to provide integer values. Input validation is not implemented.
+Nota: Los programas suponen que el usuario pretende introducir valores enteros. La validación del input no está implementada.
 
 **Roadmap**
 ========
 
-Unknown at this time.
+No disponible en la evidencia del repositorio.
 
-**README.md**
-=================
-The contents of the README.md file are above. 
+**Contributing**
+==============
 
-This README provides a basic overview of the project, its features, and the setup process. However, it is limited by the repository evidence, which does not provide information on more advanced topics or features.
+To contribute to the project, please submit a pull request.
+
+**License**
+========
+
+The project is licensed under the MIT License.
+
+**Acknowledgments**
+================
+
+No agradecimientos disponibles.
